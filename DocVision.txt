@@ -1,0 +1,6 @@
+Documento de Visão
+Aplicativo de Entregas Comunitárias para Áreas Insulares
+1. Introdução
+Objetivo do documento
+
+Este documento tem como finalidade apresentar a visão geral de um aplicativo de entregas voltado para comunidades localizadas em áreas pequenas e geograficamente isoladas, como ilhas.
