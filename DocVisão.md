@@ -31,3 +31,5 @@ Atualmente, os moradores dessas comunidades enfrentam dificuldades para adquirir
 2.3 *Proposta de solução*
 
 A solução proposta é um aplicativo de entregas leve e simples de usar, adaptado às particularidades de uma comunidade pequena: poucos quilômetros de distância entre pontos, entregadores que já conhecem o território e uma base de comerciantes limitada, porém bem mapeada. O aplicativo permitirá que moradores façam pedidos a partir de estabelecimentos locais cadastrados, que esses pedidos sejam roteados a entregadores da própria comunidade e que todo o processo seja acompanhado de forma transparente, do pedido até a entrega. Dessa forma, fortalece-se a economia local, reduz-se a dependência de deslocamentos físicos e cria-se uma fonte adicional de renda para moradores que atuarem como entregadores.
+
+3. Descrição do StackHolders e usuários 
