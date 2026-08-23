@@ -49,6 +49,29 @@ A solução proposta é um aplicativo de entregas leve e simples de usar, adapta
 
 ---
 
+## *5. Requisios de Alto Nível*
+
+### *Requisitos Funcionais*
+
+- O sistema deverá permitir o cadastro e a autenticação de moradores, comerciantes e entregadores.
+- O sistema deverá permitir que comerciantes cadastrem e atualizem seus estabelecimentos, produtos e serviços.
+- O sistema deverá permitir que moradores consultem os estabelecimentos locais, vizualizem os itens disponíveis e realizem pedidos.
+- O sistema deverá encaminhar os pedidos aos entregadores disponíveis na comunidade.
+- O sistema deverá permitir o acompanhamento do status do pedido, desde a confirmação até a conclusão da entrega.
+- O sistema deverá disponibilizar um meio de pagamento e um canal de comunicação entre morador, comerciante e entregador.
+
+---
+
+### *Requisitos Não Funcionais*
+
+- O aplicativo deverá possuir uma interface simples, intuitiva e de fácil utilização.
+- O aplicativo deverá ser compatível com dispositivos móveis e adaptar-se a diferentes tamanhos de tela.
+- O aplicativo deverá apresentar bom desempenho mesmo em conexões de interenet  de baixa velocidade.
+- O sistema deverá proteger os dados pessoais dos usuários e as informações  relacionadas aos pagamentos.
+- O sistema deverá manter as informações dos pedidos e de seus status atualizadas de forma confiável.
+
+---
+
 ## *6. Restrições e Premissas*
 
 ### *Restrições*
