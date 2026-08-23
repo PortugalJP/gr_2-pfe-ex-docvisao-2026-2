@@ -43,7 +43,11 @@ A solução proposta é um aplicativo de entregas leve e simples de usar, adapta
 
 ---
 
-3. Descrição do StackHolders e usuários 
+## 3. *Descrição de Stakeholders e Usuários*
+
+### 3.1 *Resumo dos Stakeholders*
+
+---
 
 ## *6. Restrições e Premissas*
 
@@ -62,4 +66,5 @@ A solução proposta é um aplicativo de entregas leve e simples de usar, adapta
 - Existência de moradores interessados a realizar entregas
 - Disponibilidade de acesso à internet 
 - Haverá demanda suficiente pelo serviço de entregas na comunidade
+
 
