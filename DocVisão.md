@@ -144,4 +144,24 @@ Enquanto os grandes aplicativos de entrega (como iFood ou Rappi) são desenhados
 - Disponibilidade de acesso à internet 
 - Haverá demanda suficiente pelo serviço de entregas na comunidade
 
+---
+
+## 7. Riscos e Dependências
+
+### Riscos
+
+- *Clima:* chuvas, ventos fortes e mar agitado podem atrasar ou impedir as entregas.
+- *Transporte limitado:* dependência de barcos e horários disponíveis.
+- *Custos:* combustível e manutenção dos barcos podem aumentar o preço das entregas.
+- *Segurança:* necessidade de garantir pedidos e pagamentos seguros.
+
+### Dependências
+
+- Barqueiros e entregadores locais para realizar as entregas.
+- Comércios parceiros para disponibilizar os produtos.
+- Meios de pagamento para processar os pedidos.
+- Condições climáticas e marítimas que influenciam diretamente a logística.
+
+
+
 
