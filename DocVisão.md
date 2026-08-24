@@ -55,7 +55,18 @@ A solução proposta é um aplicativo de entregas leve e simples de usar, adapta
 
 ---
 
-###
+### 3.2 **Resumo dos usuários**
+
+- **Cliente (morador)** — Usuário final que realiza pedidos pelo aplicativo. Representante a definir junto ao patrocinador.
+- **Comerciante** — Usuário que gerencia seu catálogo de produtos/serviços e recebe pedidos. Representante a definir junto ao patrocinador.
+- **Entregador** — Usuário que executa as entregas na comunidade. Representante a definir junto ao patrocinador.
+
+---
+
+## 3.3 *Ambiente do usuário
+O uso do aplicativo ocorrerá em um contexto de conectividade limitada e instável, comum em áreas insulares, o que exige uma interface leve, de baixo consumo de dados e com boa tolerância a conexões intermitentes. Os usuários possuem perfis variados de familiaridade com tecnologia — desde moradores mais jovens, habituados a aplicativos móveis, até idosos ou comerciantes com pouca experiência digital —, o que reforça a necessidade de uma navegação simples e intuitiva. As distâncias percorridas são curtas, e os entregadores normalmente já conhecem o território, o que reduz a complexidade logística em comparação a aplicativos urbanos tradicionais.
+
+---
 
 ## *5. Requisios de Alto Nível*
 
