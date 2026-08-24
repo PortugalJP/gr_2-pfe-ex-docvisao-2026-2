@@ -79,6 +79,30 @@ O uso do aplicativo ocorrerá em um contexto de conectividade limitada e instáv
 
 ---
 
+## 4.*Visão Geral do Produto*
+
+### 4.1 Principais funcionalidades
+
+A espinha dorsal do aplicativo é a Gestão de Ciclo Curto de Pedidos. Essa funcionalidade integra três pontas simultaneamente dentro de uma área geográfica restrita:
+
+- Vitrine Digital Descomplicada: Ferramentas para que pequenos comerciantes (muitas vezes sem familiaridade com tecnologia avançada) consigam subir fotos, descrever produtos e atualizar estoques de forma rápida pelo celular.
+
+- Despacho Dinâmico Comunitário: Assim que um morador faz um pedido (seja um lanche, um medicamento ou mantimentos), o sistema emite um alerta para a rede de entregadores locais ativos no momento. O primeiro a aceitar assume a rota.
+
+- Tríade de Comunicação: Um chat integrado que conecta simultaneamente quem compra, quem vende e quem entrega, essencial para resolver dúvidas rápidas sobre o pedido ou sobre o local de entrega.
+
+### 4.2 Diferencial em relação a soluções existentes
+
+Enquanto os grandes aplicativos de entrega (como iFood ou Rappi) são desenhados para a dinâmica de grandes centros urbanos e malhas viárias complexas, esta solução se destaca pelos seguintes fatores:
+
+- Navegação Baseada em Conhecimento Local (Geografia Informal): Aplicativos tradicionais dependem de APIs de mapas que raramente cobrem as vielas, caminhos de terra ou endereços não oficializados de comunidades insulares. Este app confia no conhecimento prévio do entregador local, substituindo a dependência estrita do GPS por pontos de referência comunitários inseridos no cadastro do cliente (ex: "casa azul ao lado da padaria").
+
+- Estímulo Direto à Economia Circular: As soluções de mercado geralmente extraem taxas que saem da comunidade para grandes corporações. Este modelo retém o capital dentro do território: o vizinho compra do comerciante local, e a taxa de entrega remunera outro vizinho.
+
+- Flexibilidade de Pagamentos Locais: Além de cartões, o sistema é projetado para acomodar acordos locais de pagamento, como pagamentos via PIX diretamente ao entregador ou ao lojista na entrega, adaptando-se ao grau de bancarização da comunidade.
+
+---
+
 ## *5. Requisitos de Alto Nível*
 
 ### *Requisitos Funcionais*
