@@ -47,6 +47,12 @@ A solução proposta é um aplicativo de entregas leve e simples de usar, adapta
 
 ### 3.1 *Resumo dos Stakeholders*
 
+- **Morador da comunidade (cliente)** — Residente da área insular que utiliza o aplicativo para solicitar produtos e serviços sem precisar se deslocar fisicamente. Responsável por realizar pedidos, efetuar pagamentos e avaliar o serviço recebido.
+- **Comerciante local** — Proprietário de mercearia, restaurante, farmácia ou negócio artesanal que passa a vender também pelo canal digital. Responsável por cadastrar produtos/serviços, gerenciar disponibilidade e preparar/confirmar pedidos.
+- **Entregador local** — Morador da comunidade que atua como agente de entrega, gerando renda complementar. Responsável por aceitar entregas, transportar pedidos e atualizar o status da entrega.
+- **Patrocinador do projeto** — Responsável por viabilizar e financiar o desenvolvimento do aplicativo. Define prioridades estratégicas e aprova escopo e investimentos.
+- **Equipe de desenvolvimento** — Responsável pela construção, manutenção e evolução técnica do sistema. Desenvolve, testa e mantém as funcionalidades do aplicativo.
+
 ---
 
 ## *5. Requisios de Alto Nível*
