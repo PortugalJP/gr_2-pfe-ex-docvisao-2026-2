@@ -162,19 +162,21 @@ Enquanto os grandes aplicativos de entrega (como iFood ou Rappi) são desenhados
 - Meios de pagamento para processar os pedidos.
 - Condições climáticas e marítimas que influenciam diretamente a logística.
 
-[1. Introdução](#1-introdução)          [3.4 Necessidades-Chaves](#34-necessidades-chave-dos-stakeholders)
+---
 
-[1.1 Objetivo do documento](#11-objetivo-do-documento)              [4. Visão Geral do Produto](#4visão-geral-do-produto)
+[1. Introdução](#1-introdução) ----        [3.4 Necessidades-Chaves](#34-necessidades-chave-dos-stakeholders)
+
+[1.1 Objetivo do documento](#11-objetivo-do-documento)     ----         [4. Visão Geral do Produto](#4visão-geral-do-produto)
 
 [1.2 Público-alvo](#12-público-alvo)              [4.1 Principais funcionalidades](#41-principais-funcionalidades)
 
-[1.3 Escopo do Sistema](#13-escopo-do-sistema)              [4.2 Diferencial em relação a soluções existentes](#42-diferencial-em-relação-a-soluções-existentes)
+[1.3 Escopo do Sistema](#13-escopo-do-sistema)     ----         [4.2 Diferencial em relação a soluções existentes](#42-diferencial-em-relação-a-soluções-existentes)
 
 [2. Posicionamento](#2-posicionamento)             [5. Requisitos de Alto Nível](#5-requisitos-de-alto-nível)
 
-[2.1 Oportunidade de mercado](#21-oportunidade-de-mercado)              [6. Restrições e Premissas](#6-restrições-e-premissas)
+[2.1 Oportunidade de mercado](#21-oportunidade-de-mercado)     ----         [6. Restrições e Premissas](#6-restrições-e-premissas)
 
-[2.2 Problema a ser resolvido](#22-problema-a-ser-resolvido)            [7. Riscos e Dependencias](#7-riscos-e-dependências)
+[2.2 Problema a ser resolvido](#22-problema-a-ser-resolvido)    ----        [7. Riscos e Dependencias](#7-riscos-e-dependências)
 
 [2.3 Proposa de Solução](#23-proposta-de-solução)
 
